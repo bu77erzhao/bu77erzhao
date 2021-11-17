@@ -20,7 +20,7 @@ CSDN: [@butterzhao](https://blog.csdn.net/butterzhao)
 I’m looking to collaborate on studying partners, and I would be very excited if you could asking for me.
 
 
-📊 **today i spent my time on:**
+### Today i spent my time on:**
 <!--START_SECTION:waka-->
 ```text
 C++          7 hrs 58 mins   ████████████░░░░░░░░░░░░░   47.51 % 
@@ -32,10 +32,10 @@ Gaming       10 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bu77erzhao&show_icons=true&theme=gotham" alt="bu77erzhao" />
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bu77erzhao)](https://github.com/anuraghazra/github-readme-stats)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bu77erzhao&show_icons=true&theme=gotham" alt="bu77erzhao" />
+
+  
 
 <!---
 bu77erzhao/bu77erzhao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
