@@ -22,7 +22,7 @@ I’m looking to collaborate on studying partners who is as same as my interests
 ### Favourite books recently:
 
 #### Economy:
-《价值》《财富自由之路(李笑来)》
+《价值》《财富自由之路(李笑来)》  
 *Scarcity:Why Having Too Little Means So Much*  
 *Poor Economy*  
 *La Reproduction*  
