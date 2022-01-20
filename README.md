@@ -23,17 +23,17 @@ I’m looking to collaborate on studying partners who is as same as my interests
 
 #### Economy:
 《价值》《财富自由之路(李笑来)》
-*Scarcity:Why Having Too Little Means So Much*
-*Poor Economy*
-*La Reproduction*
+*Scarcity:Why Having Too Little Means So Much*  
+*Poor Economy*  
+*La Reproduction*  
 #### Literature:
-豆豆三部曲《遥远的救世主》《背叛》《天幕红尘》
-《我的二本学生》《我的前半生》
+豆豆三部曲《遥远的救世主》《背叛》《天幕红尘》  
+《我的二本学生》《我的前半生》  
 #### Technology:
-《大话存储》《C和指针》《汇编语言(王爽)》
+《大话存储》《C和指针》《汇编语言(王爽)》  
 #### Social Science:
-《沧浪之水》《浪潮之巅》
- *America against America*
+《沧浪之水》《浪潮之巅》  
+ *America against America*  
 
 
 ### Today i spent my time on:
