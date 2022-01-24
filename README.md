@@ -8,7 +8,7 @@
 ### What am I doing recently:
 - Preparing IELTS and Test d’évaluation de français/Test de connaissance du français.
 - Learing object oriented programming, related courses about Artificial Intelligence and Data Science.
-- Exploring an effective way to raise my second language level. To be further explained, trying to meet some conditions and offer a taught master degree(master by course work).
+- Exploring an effective way to raise my second language level. To be further explained, trying to meet some conditions and apply for a taught master degree(master by course work).
 - Gaming in: CSGO, Deus Ex, Halo:The master chief collection and a series of FPS games.
 
 ### Where can you find me:
@@ -36,7 +36,7 @@ I’m looking to collaborate on studying partners who is as same as my interests
  *America against America*  
 
 
-### Today i spent my time on:
+### Today I spent my time on:
 
 <!--START_SECTION:waka-->
 ```text
