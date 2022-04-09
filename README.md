@@ -6,9 +6,9 @@
 - Paying close attention to digit, drug, sports, railway and civil aviation of China.
 
 ### What am I doing recently:
-- Preparing IELTS and Test d’évaluation de français/Test de connaissance du français.
-- Learing object oriented programming, related courses about Artificial Intelligence and Data Science.
-- Exploring an effective way to raise my second language level. To be further explained, trying to meet some conditions and apply for a taught master degree(master by course work).
+- Preparing IELTS.
+- Learing object oriented programming.
+- Exploring an effective way to raise my second language level.
 - Gaming in: CSGO, Deus Ex, Halo:The master chief collection and a series of FPS games.
 
 ### Where can you find me:
