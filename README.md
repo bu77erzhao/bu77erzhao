@@ -1,15 +1,11 @@
 ## Hi there!   :D
 
-### What am I interested in:
-- Mechanical, Electronic and Computer Science.
-- Financial field:ETF, real estate and value investment, long term holding of cryptocurrency. 
-- Paying close attention to digit, drug, sports, railway and civil aviation of China.
+## How to estimate current market conditions?
+-A presentation on May 16 have provided some viewpoints worthy of reference.
+  [Adapting to Endure](https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/06/Adapting-to-Endure_Sequoia-Capital-2022.pdf)
 
 ### What am I doing recently:
 - Preparing IELTS.
-- Learing object oriented programming.
-- Exploring an effective way to raise my second language level.
-- Gaming in: CSGO, Deus Ex, Halo:The master chief collection and a series of FPS games.
 
 ### Where can you find me:
 
