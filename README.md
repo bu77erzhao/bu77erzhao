@@ -1,7 +1,8 @@
 ## Hi there!   :D
 
-## How to estimate current market conditions?
+### How to estimate current market conditions?
 -A presentation on May 16 have provided some viewpoints worthy of reference.
+
   [Adapting to Endure](https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/06/Adapting-to-Endure_Sequoia-Capital-2022.pdf)
 
 ### What am I doing recently:
