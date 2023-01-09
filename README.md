@@ -1,9 +1,5 @@
 ## Hi there!   :D
 
-### How to estimate current market conditions?
--A presentation on May 16 have provided some viewpoints worthy of reference.
-
-  [Adapting to Endure](https://www.sequoiacap.com/wp-content/uploads/sites/6/2022/06/Adapting-to-Endure_Sequoia-Capital-2022.pdf)
 
 ### What am I doing recently:
 - Preparing IELTS.
@@ -14,7 +10,6 @@ Bilibili: [@虎牙李钟硕](https://space.bilibili.com/20328887)
 
 CSDN: [@butterzhao](https://blog.csdn.net/butterzhao)
 
-I’m looking to collaborate on studying partners who is as same as my interests, and I would be excited legitimately if you could make some communication with me.
 
 ### Favourite books recently:
 
